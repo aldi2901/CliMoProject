@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/home" android:title="Home" android:icon="@drawable/ic_home_black_24dp"/>
+        <item android:id="@+id/akun" android:title="Akun" android:icon="@drawable/ic_person_black_24dp"/>
+        <item android:id="@+id/post" android:title="Posting Saya" android:icon="@drawable/ic_description_black_24dp"/>
+        <item android:id="@+id/inbox" android:title="Inbox" android:icon="@drawable/ic_mail_black_24dp"/>
+        <item android:id="@+id/about" android:title="Tentang Kami" android:icon="@drawable/ic_announcement_black_24dp"/>
+
+    </group>
+    <item android:title=""/>
+    <item android:title=""/>
+
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+</menu>

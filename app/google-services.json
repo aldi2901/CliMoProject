@@ -1,0 +1,161 @@
+{
+  "project_info": {
+    "project_number": "10777629064",
+    "firebase_url": "https://climo-34ff5.firebaseio.com",
+    "project_id": "climo-34ff5",
+    "storage_bucket": "climo-34ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10777629064:android:3e2bf9d283622dcc",
+        "android_client_info": {
+          "package_name": "com.climo.al.climoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10777629064-32vdf2pofibft5vq2a31uqd6a2ooptjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4WuVZVP_qhJi1_lJH5QfvDhT9rjKMQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10777629064:android:6412761242627297",
+        "android_client_info": {
+          "package_name": "com.example.al.climoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10777629064-58os8pecda8gjur0edg27dbpnp8h3b38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.al.climoproject",
+            "certificate_hash": "2117253670760d9f34894a2465fd3226d2359341"
+          }
+        },
+        {
+          "client_id": "10777629064-32vdf2pofibft5vq2a31uqd6a2ooptjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4WuVZVP_qhJi1_lJH5QfvDhT9rjKMQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10777629064-32vdf2pofibft5vq2a31uqd6a2ooptjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10777629064:android:5de36dda329b8644",
+        "android_client_info": {
+          "package_name": "com.example.asus.climo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10777629064-32vdf2pofibft5vq2a31uqd6a2ooptjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4WuVZVP_qhJi1_lJH5QfvDhT9rjKMQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10777629064:android:97e30e6c556e3083",
+        "android_client_info": {
+          "package_name": "com.example.asus.climo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10777629064-v04jp6bgpadp3va4ebie4v9i2anedupg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.climo3",
+            "certificate_hash": "2117253670760d9f34894a2465fd3226d2359341"
+          }
+        },
+        {
+          "client_id": "10777629064-32vdf2pofibft5vq2a31uqd6a2ooptjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4WuVZVP_qhJi1_lJH5QfvDhT9rjKMQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10777629064-32vdf2pofibft5vq2a31uqd6a2ooptjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

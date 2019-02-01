@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CliMo</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="progress">On Going Progress \n \t Update Soon</string>
+    <string name="login"> <u>Login</u></string>
+    <string name="daftar"> <u>Daftar</u></string>
+    <string-array name="nama_gunung">
+        <item>Gunung Ciremai</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Pangrango</item>
+        <item>Gunung Sindoro</item>
+        <item>Gunung Sumbing</item>
+        <item>Gunung Selamet</item>
+        <item>Gunung Merapi</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Arjuno</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Raung</item>
+        <item>Gunung Rinjani</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Bukit Raya</item>
+        <item>Gunung Binaiya</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Andong</item>
+        <item>Gunung Guntur</item>
+        <item>Gunung Papandayan</item>
+        <item>Gunung Cikuray</item>
+        <item>Gunung Cartenz Pyramid</item>
+    </string-array>
+    <string name="tentang" >CLIMO. Membantu anda mencari teman baru untuk mendaki gunung.\n
+        mencari dan bertemu di titikpertemuan untuk mendaki gunung?\n
+        nggak usah ribet, karena aplikasi
+kami membantu anda mencari teman mendaki\n untuk anda.</string>
+</resources>

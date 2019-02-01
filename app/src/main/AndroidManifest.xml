@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.climo.al.climoproject">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/climo_icon"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/climo_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <activity
+            android:name="com.climo.al.climoproject.SplashScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.climo.al.climoproject.Activities.MainActivity" />
+        <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value="com.climo.al.climoproject.Activities.MainActivity" />
+        <activity
+            android:name="com.climo.al.climoproject.Activities.Login"
+            android:theme="@style/SplashTheme" />
+        <activity android:name="com.climo.al.climoproject.Activities.Daftar" />
+        <activity android:name="com.climo.al.climoproject.DetailPost" />
+        <activity
+            android:name="com.climo.al.climoproject.EditAkun"
+            android:theme="@style/SplashTheme" />
+        <activity android:name="com.climo.al.climoproject.PostAjakan"></activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB2xpxxrkm_0nk4YLnDQu8jcY-dPuALuuk" />
+    </application>
+
+</manifest>
